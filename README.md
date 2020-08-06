@@ -1,4 +1,2 @@
-# iot-summer
-## Details about this repo
+# iot-summer-session2
  
-A repository for IoT Summer 2020 with arduino codes
