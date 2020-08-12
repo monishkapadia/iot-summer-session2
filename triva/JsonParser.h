@@ -18,7 +18,7 @@ class JsonParser {
       correct_answer = answers[0];
       randomSeed(millis());
       for(int i=0; i<4; i++) {
-        randomVal = random(4);
+        randomVal = random(4); // 2
         temp = answers[randomVal];
         answers[randomVal] = answers[i];
         answers[i] = temp;
